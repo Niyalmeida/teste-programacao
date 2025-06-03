@@ -12,3 +12,8 @@ h1{
     font-size: 36 px;
     color: brown;
 }
+img{
+position: absolute;
+top: 50px;
+left: 100 px;
+}
